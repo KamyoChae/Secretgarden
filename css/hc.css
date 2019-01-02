@@ -98,7 +98,7 @@ p
   overflow-y:auto;
   z-index:1000;
   margin-top:-4px;
-  border-top:solid #d90006;
+  border-top:solid #dc944d;
   transition:all .4s ease 0;
   border-width:4px
 }
@@ -293,7 +293,7 @@ pre
 {
   font-size:3em;
   font-weight:700;
-  color:#d90006;
+  color:#dc944d;
   line-height:130%
 }
 
@@ -451,7 +451,7 @@ time
   background-color:#fff;
   color:#4d4d4d;
   box-shadow:1px 1px 0 1px #e8e8e8;
-  margin:10px 10%;
+  margin:10px 0%;
   padding:10px 40px
 }
 
